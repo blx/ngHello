@@ -2,7 +2,7 @@
   "name": "ngHello",
   "version": "1.0.0",
   "description": "Angularjs provider for hello.js",
-  "main": "Gruntfile.js",
+  "main": "src/ng-hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
